@@ -254,6 +254,6 @@ python -m streamlit run app.py
 
 ## 👤 Author
 
-**Manvi **
+**Manvi**
 
 B.Tech — Artificial Intelligence & Data Science
