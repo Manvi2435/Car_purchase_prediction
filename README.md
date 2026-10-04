@@ -186,6 +186,7 @@ Car_purchase_prediction/
 ├── app.py
 ├── requirements.txt
 ├── .gitignore
+├── .gitattributes
 └── README.md
 ```
 
