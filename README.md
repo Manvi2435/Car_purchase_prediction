@@ -1,7 +1,7 @@
 #  Car Purchase Prediction
 An end-to-end Machine Learning project that predicts whether a used car is likely to be a potential purchase based on its characteristics.
 
-The project includes data preprocessing, exploratory data analysis, machine learning model comparison, model evaluation, explainable predictions, and an interactive Streamlit application.
+The project includes data preprocessing, exploratory data analysis, machine learning, model comparison, model evaluation, explainable predictions, and an interactive Streamlit application.
 
 ---
 
